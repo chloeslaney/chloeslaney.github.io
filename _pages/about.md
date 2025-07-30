@@ -14,7 +14,7 @@ Current Research
 Based in the Immunopsychiatry programme led by Prof. Golam Khandaker, I'm investigating biological pathways which may impact cognitive functioning at different ages in the lifespan using non-genetic and genetic epidemiological methods. To do this, I work with large population-based cohort data from the [UK Biobank](https://www.ukbiobank.ac.uk/) and the [Lifelines Cohort](https://www.lifelines-biobank.com/0 in the Netherlands). 
 
 2. ALDH2 Consortium
-I am working with Prof. George Davey Smith to establish an ALDH2 Consortium, which aims to address several questions related to the ALDH2 rs671 genotype. For more details, please visit the [ALDH2 Consortium Website](aldh2-consortium.github.io).
+I am working with Prof. George Davey Smith to establish an ALDH2 Consortium, which aims to address several questions related to the ALDH2 rs671 genotype. For more details, please visit the [ALDH2 Consortium Website](https://aldh2-consortium.github.io/).
 
 Past Research
 ======
